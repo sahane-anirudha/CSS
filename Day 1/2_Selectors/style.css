@@ -1,0 +1,19 @@
+.name{
+    color: red;
+}
+
+h1{
+    background-color: aqua;
+}
+
+#name-id{
+    background-color: bisque;
+}
+
+*{
+    background-color: yellowgreen;
+}
+
+p[draggable]{
+    color: red;
+}
