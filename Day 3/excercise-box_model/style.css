@@ -1,0 +1,26 @@
+#outer-box{
+    height: 605px;
+    width: 200px;
+    background-color:wheat;
+    border: 1px solid black;
+    margin-top: 20px;
+    
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+    
+
+}
+.box1{
+    background-color: orange;
+}
+.box2{
+    background-color: white;
+
+}
+.box3{
+    background-color: green;
+}
