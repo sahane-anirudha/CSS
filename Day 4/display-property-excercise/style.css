@@ -1,0 +1,33 @@
+.inner-box{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    display: inline-block;
+
+}
+.inner-box1{
+    background-color: red;
+}
+.inner-box2{
+    background-color: green;
+}
+.inner-box3{
+    background-color: blue;
+}
+
+.inner{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 10px 0px 20px 10px; 
+}
+.box4{
+    background-color: red;
+}
+.box5{
+    background-color: green;
+
+}
+.box6{
+    background-color: blue;
+}
