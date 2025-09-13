@@ -1,0 +1,23 @@
+.inner-box{
+    background-color: violet;
+    font-family: cursive;
+}
+.outer-box{
+    display: flex;
+    gap: 10px;
+    /* flex-direction: column; */
+    flex-basis: 100px;
+}
+#hello{
+    background-color: yellowgreen;
+    font-family: monospace;
+    font-weight: 900;
+}
+#sai{
+    background-color: orange;
+    font-size: 30px;
+}
+.outer2{
+    display: inline-flex;
+    /* flex-direction: column; */
+}

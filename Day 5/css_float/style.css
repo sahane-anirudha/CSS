@@ -1,0 +1,33 @@
+img{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+*{
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.box-1{
+    /* display: inline-block; */
+    float: left;
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    margin-bottom: 30px;
+}
+.box-2{
+    /* display: inline-block; */
+    float: right;
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    margin-bottom: 30px;
+}
+
+.footer{
+    text-align: center;
+    background-color: aquamarine;
+    clear: both;
+    /* margin-top: 500px; */
+}
