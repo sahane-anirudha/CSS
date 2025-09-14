@@ -1,0 +1,48 @@
+html{
+    font-size: 20px;
+}
+.outer-box{
+    height: 4em;
+    width: 100%;
+    /* background-color: whitesmoke; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 5px whitesmoke solid;
+    
+}
+img{
+    margin-left: -1em;
+    height: 4em;
+    width: 9em;
+    /* padding-right: 10em; */
+}
+
+.nav ul{
+    display: flex;
+    
+}
+.nav ul li{
+    padding-right: 1.5em;
+    list-style-type: none;
+    
+}
+.nav ul li a{
+    text-decoration: none;
+    font-size: 1.1em;
+    font-family: sans-serif;
+    font-weight: 600;
+    
+}
+.nav a:hover{
+    font-size: 1.5em;
+    color: blue;
+}
+.inner-cart{
+    font-size: 1.3em;
+    /* color: blue; */
+}
+.inner-cart:hover{
+    color: blue;
+
+}
