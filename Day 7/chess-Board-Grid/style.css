@@ -1,0 +1,21 @@
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    /* border: 1px solid black; */
+}
+.white{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+.container{
+    border: 1px solid black;
+    height: 800px;
+    width: 800px;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}

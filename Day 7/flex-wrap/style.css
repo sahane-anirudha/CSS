@@ -1,0 +1,14 @@
+.outer-box{
+    /* height: 100px; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+}
+.inner-box{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    border: 1px solid red;
+}
